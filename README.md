@@ -38,7 +38,9 @@ pip install notebook
 
 and download the required extension for Visual studio to run the notebooks there.
 ```
-SCREENS FROM THE AGENT EXECUTION:
+
+### SCREENS FROM THE AGENT EXECUTION:
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
