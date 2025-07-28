@@ -3,8 +3,9 @@ This repository showcases a basic setup using [CrewAI](https://github.com/joaomd
 
 ## ⚙️ Quick Setup
 
-### 1. Clone the Repo
 ```bash
+# 1. Clone the Repo
+
 git clone https://github.com/dincho-kostadinov/crewai-agents
 cd crewai-agents
 
