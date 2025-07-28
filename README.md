@@ -5,7 +5,6 @@ This repository showcases a basic setup using [CrewAI](https://github.com/joaomd
 
 ```bash
 # 1. Clone the Repo
-
 git clone https://github.com/dincho-kostadinov/crewai-agents
 cd crewai-agents
 
@@ -22,10 +21,8 @@ source .venv/bin/activate
 pip install -e .
 
 # 5. Create a .env file or export required API keys:
-
 OPENAI_API_KEY=your-openai-key
 SERPER_API_KEY=your-serper-key
 
 # 6.Run the crew
-
 python src/your_project/main.py
